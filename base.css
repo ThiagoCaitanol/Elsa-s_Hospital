@@ -45,6 +45,7 @@ table{
     -moz-box-shadow: 6px 10px 28px -11px rgba(0,0,0,1);
     box-shadow: 6px 10px 28px -11px rgba(0,0,0,1);
     background-color: #f1f1f1;
+ 
 }
 
 table thead th{
@@ -83,6 +84,7 @@ iframe {
     text-align: center;
     
 }
+
 
 .footer {
     padding-top: 200px;
