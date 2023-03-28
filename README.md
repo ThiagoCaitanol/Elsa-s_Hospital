@@ -19,7 +19,7 @@ Os objetivos deste projeto são:
 <h2>Como utilizar</h2>
 <ol>Clone este repositório em seu computador:</ol>
 <pre><code class="language-bash">
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  git clone https://github.com/ThiagoCaitanol/Elsa-s_Hospital.git
 </code></pre>
 <ol>Abra o arquivo index.html no navegador de sua preferência.</ol>
 
@@ -50,3 +50,6 @@ Contribuições são bem-vindas! Se você deseja contribuir, siga as instruçõe
 
 <h2>Licença</h2>
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+<hr>
+<h2>Autor</h2>
+Este projeto foi criado por Thiago Caitano como parte de um estudo pessoal e desafio de projeto da plataforma DIO.
